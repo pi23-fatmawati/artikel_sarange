@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3030;
+const port = 3306;
 const functions = require("firebase-functions");
 
 const { errorHandler } = require("./middleware");
