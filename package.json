@@ -8,5 +8,8 @@
   },
   "scripts": {
     "watch": "nodemon index.js"
+  },
+  "engines": {
+    "node": "20.9.0"
   }
 }
