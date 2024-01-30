@@ -7,7 +7,7 @@
     "sequelize-cli": "^6.6.2"
   },
   "scripts": {
-    "watch": "nodemon index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": "20.9.0"
